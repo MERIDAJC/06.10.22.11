@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#434444;
+    
+
+
+}
+
+.planes{
+    font-weight: bold;
+    font-size: 100px;color: aliceblue; margin: 10px 240px 40px 410px;
+    
+}
+
+
+.contenedor{
+    width: 1180px; 
+    height: 600px;
+    margin: 50px auto; 
+    background-color: #064636;
+    border-radius: 10px;     
+      
+}
+
+
+.caja1{
+    width: 260px; 
+    height: 450px;
+    margin: 20px ;
+    margin: left 40px;
+    background-color: azure;
+    border-radius: 5px;
+    float:left    
+}
+
+.caja1>button {
+       border-bottom: 5px;
+       background-color: black;
+       border-radius: 5px;
+       color: aliceblue;
+       margin: 20px 100px;
+}
+.pagounico{
+    display: none;
+    border: 2px;
+    color: blue;
+}
+
+
+
+
+.caja2{
+
+    width: 250px; 
+    height: 450px;
+    margin: 20px;
+    background-color: aliceblue; 
+    border-radius: 5px;
+    float:left;
+    
+}
+.caja2>button{
+
+       border-bottom: 5px;
+       background-color: black;
+       border-radius: 5px;
+       color: aliceblue;
+       margin: 20px 100px;
+}
+
+
+.caja3{
+
+    width: 250px; 
+    height: 450px;
+    margin: 20px;
+    background-color: aliceblue; 
+    border-radius: 5px;
+    float:left;
+    
+}
+
+
+.caja3>button{
+
+    border-bottom: 5px;
+    background-color: black;
+    border-radius: 5px;
+    color: aliceblue;
+    margin: 5px 100px;
+}
+
+.caja4{
+
+    width: 250px; 
+    height: 450px;
+    margin: 20px;
+    background-color: aliceblue; 
+    border-radius: 5px;
+    float:left;
+    
+}
+
+.caja4>button{
+
+    border-bottom: 5px;
+    background-color: black;
+    border-radius: 5px;
+    color: aliceblue;
+    margin: 5px 100px;
+}
+
+  
